@@ -1,0 +1,14 @@
+C:\Users\sbour\R203\Exo1\obj\Debug\net10.0\Exo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbour\R203\Exo1\obj\Debug\net10.0\Exo1.AssemblyInfoInputs.cache
+C:\Users\sbour\R203\Exo1\obj\Debug\net10.0\Exo1.AssemblyInfo.cs
+C:\Users\sbour\R203\Exo1\obj\Debug\net10.0\Exo1.csproj.CoreCompileInputs.cache
+C:\Users\sbour\R203\Exo1\bin\Debug\net10.0\Exo1.exe
+C:\Users\sbour\R203\Exo1\bin\Debug\net10.0\Exo1.deps.json
+C:\Users\sbour\R203\Exo1\bin\Debug\net10.0\Exo1.runtimeconfig.json
+C:\Users\sbour\R203\Exo1\bin\Debug\net10.0\Exo1.dll
+C:\Users\sbour\R203\Exo1\bin\Debug\net10.0\Exo1.pdb
+C:\Users\sbour\R203\Exo1\obj\Debug\net10.0\Exo1.dll
+C:\Users\sbour\R203\Exo1\obj\Debug\net10.0\refint\Exo1.dll
+C:\Users\sbour\R203\Exo1\obj\Debug\net10.0\Exo1.pdb
+C:\Users\sbour\R203\Exo1\obj\Debug\net10.0\Exo1.genruntimeconfig.cache
+C:\Users\sbour\R203\Exo1\obj\Debug\net10.0\ref\Exo1.dll
