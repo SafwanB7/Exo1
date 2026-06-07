@@ -12,3 +12,4 @@ C:\Users\sbour\R203\Exo1\obj\Debug\net10.0\refint\Exo1.dll
 C:\Users\sbour\R203\Exo1\obj\Debug\net10.0\Exo1.pdb
 C:\Users\sbour\R203\Exo1\obj\Debug\net10.0\Exo1.genruntimeconfig.cache
 C:\Users\sbour\R203\Exo1\obj\Debug\net10.0\ref\Exo1.dll
+C:\Users\sbour\R203\Exo1\obj\Debug\net10.0\Exo1.sourcelink.json
